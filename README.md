@@ -1,2 +1,2 @@
-# impossible-pong
-goofy game that i made
+play the game here
+https://mateo-cogeanu.github.io/
